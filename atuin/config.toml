@@ -1,0 +1,3 @@
+show_preview = false
+exit_mode = "return-query"
+enter_accept = true
